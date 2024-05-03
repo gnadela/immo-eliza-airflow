@@ -1,4 +1,4 @@
-# Immo Eliza with Airflow
+# Immo Eliza Airflow
 [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -9,7 +9,7 @@ This project puts together the work that has been done on previous projects at B
 - [Machine Learning Modeling](https://github.com/gnadela/immo-eliza-ml)
 - [API and Website for Property Price Prediction](https://github.com/gnadela/immo-eliza-deployment)
 
-The goal is to use [Apache Airflow](https://airflow.apache.org/) to put all this together.
+The goal is to use [Apache Airflow](https://airflow.apache.org/) to do this.
 
 ##  📦 Repo Structure 
 
@@ -51,7 +51,7 @@ Docker containers were build for each part of the pipeline. Hence, separate Dock
 
 ![](data/docker-desktop.png)
 
-## 🪭 Airflow
+## Airflow
 
 ![](data/airflow.png)
 
